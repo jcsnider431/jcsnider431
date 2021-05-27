@@ -4,7 +4,7 @@ I'm a Full Stack Developer, who loves to code
 
 Currently enrolled at Lambda School - Web Development
 
-📚 I’m currently focusing on Computer Science – Intro to Python, Algorithms, Data Structures, Hash Tables, Graphs, Computer Architecture
+📚 I’m currently focusing on a Full-stack Web Development – HTML5, CSS, JS, REACT, REDUX, NODE, SQL
 
 👯 I’m looking to collaborate with other passionate developers.
 

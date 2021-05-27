@@ -11,6 +11,13 @@ Currently enrolled at Lambda School - Web Development
 🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
 
 ⚡ Fun Fact: I love the outdoors & enjoy traveling to new places.
+
+Connect with me:
+
+LinkedIn: https://www.linkedin.com/in/jchasesnider/
+
+
+
 <!--
 **jcsnider431/jcsnider431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

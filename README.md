@@ -2,19 +2,20 @@
 
 I'm a Full Stack Developer, who loves to code
 
-Currently enrolled at Lambda School - Web Development
+I graduated from Lambda School's Web Development Program. - Full-Stack Web Development
 
 📚 I’m currently focusing on a Full-stack Web Development – HTML5, CSS, JS, REACT, REDUX, NODE, SQL
 
 👯 I’m looking to collaborate with other passionate developers.
 
-🥅 2021 Goals: Finish Lambda School's Web Development Program. 500+ Github contributions. Contribute to Open Source projects.
+🥅 2021 Goals: 500+ Github contributions. Contribute to Open Source projects.
 
 ⚡ Fun Fact: I love the outdoors & enjoy traveling to new places.
 
-Connect with me:
+📫 How to reach me:
 
-LinkedIn: https://www.linkedin.com/in/jchasesnider/
+📫 LinkedIn: https://www.linkedin.com/in/jchasesnider/
+
 
 
 
